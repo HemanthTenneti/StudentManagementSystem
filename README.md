@@ -42,13 +42,11 @@ Make sure you have Python installed on your system.
     python main.py
     ```
 
-## Languages and Libraries Used
-
-### Languages Used
+## Languages Used
 - **Python**: The main programming language used for the backend.
 - **SQL**: Language used for interacting with the SQLite3 database.
 
-### Libraries Used
+## Libraries Used
 - **math**: Provides mathematical functions.
 - **os**: Allows interaction with the operating system.
 - **string**: Implements common string operations.
