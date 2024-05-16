@@ -4,7 +4,7 @@
 The Student Database Management System is a comprehensive solution designed to efficiently manage student information using SQLite3. This project simplifies the task of storing, retrieving, and manipulating student records, offering a user-friendly interface for administrators or educators. Developed with SQLite3, Python, and various libraries, this system ensures reliability and ease of use in managing student data.
 
 ## Preview
---To Be Added--
+https://github.com/AverageBlank/StudentDatabase/assets/112507212/40ec087f-5a14-4cc7-b8a1-2d08d2c91d59
 
 ## Setting Up Locally
 
@@ -29,7 +29,7 @@ Make sure you have Python installed on your system.
 
 3. **Install the required libraries**
     ```bash
-    pip install math os string time questionary matplotlib pandas rich sys sqlite3 cryptography
+    pip install questionary matplotlib pandas rich cryptography
     ```
 
 4. **Run the application**
